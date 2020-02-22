@@ -1,3 +1,4 @@
+![Landing page](screenshots/Logo.png)
 MobLab Interview
 =============
 
