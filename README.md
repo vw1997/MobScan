@@ -21,6 +21,15 @@ proceed to build your app then download and install it on your device. If you ha
 consider switching to the `tunnel` tab within the Expo web page.
 
 ---
+**Features**
+- Scanner for QR codes with YouTube links embedded
+- Alerts users if QR code is not a valid YouTube link
+- Allows users to keep track of past scans
+- Users can delete scans from history
+- Data persists after restarting the app
+- Users may view video directly within the app
+- Redesign of MobLab logo that incorporates QR element
+---
 **Screens**
 
 ![Landing page](screenshots/Home.png)
